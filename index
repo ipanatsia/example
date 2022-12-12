@@ -1,0 +1,48 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+    <body>
+        <section>
+            <div class="container">
+                <div class="grid-container">
+                    <div class="grid-item">
+                        <img src="img/ntolmadakia.jpg" alt="">
+                        <div class="grid-item-text">
+                            <h1>Ντολμαδακια</h1>
+                            <p>Ντολμαδάκια (Σαρμαδάκια) Γιαλαντζί Φουρνιστά</p>
+                        </div>
+                    </div>
+                    <div class="grid-item">
+                        <img src="img/lachanodolmades.jpg" alt="">
+                        <div class="grid-item-text">
+                            <h1>ΛΑΧΑΝΟ-ΝΤΟΛΜΑΔΕΣ</h1>
+                            <p>Λαχανοντολμάδες (Λαχανοσαρμάδες) φουρνιστοί</p>
+                        </div>
+                    </div>
+                    <div class="grid-item">
+                        <img src="img/rizogalo.jpg" alt="">
+                        <div class="grid-item-text">
+                            <h1>ΡΥΖΟΓΑΛΟ</h1>
+                            <p>Ριζόγαλο</p>
+                        </div>
+                    </div>
+                    <div class="grid-item">
+                        <img src="img/krema-vanilia.jpg" alt="">
+                        <div class="grid-item-text">
+                            <h1>ΚΡΕΜΑ ΒΑΝΙΛΙΑ</h1>
+                            <p>Κρέμα Βανίλια</p>
+                        </div>
+                    </div>
+                    <div class="grid-item">
+                        <img src="img/krema-sokolata.jpg" alt="">
+                        <div class="grid-item-text">
+                            <h1>ΚΡΕΜΑ ΣΟΚΟΛΑΤΑ</h1>
+                            <p>Κρέμα Σοκολάτα</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </body>
+</html>
